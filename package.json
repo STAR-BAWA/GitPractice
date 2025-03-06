@@ -1,0 +1,11 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "hello.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "",
+  "license": "ISC"
+}
